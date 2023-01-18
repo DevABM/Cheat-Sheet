@@ -1,7 +1,7 @@
 ### DOCKER- CHEAT SHEET
 <br>
 Below we will see some of the important commands in Docker<br>
-![alt text](/Users/amudha/Documents/Cheat-Sheets/Doc_ChSh.png) 
+[Docker](https://miro.medium.com/max/622/0*_AogN_jUfVcROzoU) 
 
 Docker Container Management Commands<br>
 See the containers currently running on the system:
