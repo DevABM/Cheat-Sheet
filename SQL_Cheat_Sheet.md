@@ -1,2 +1,2 @@
 ### SQL Cheat Sheet
-[SQL] (/Users/ABM/Documents/GitHub/Cheat-Sheet/SQL_CheatSheet.jpeg)
+![SQL](SQL_CheatSheet.jpeg)
